@@ -268,6 +268,20 @@ hr {
   margin-top: $base-spacing * 2;
 }
 
+.just-sr {
+	position: absolute;
+	display: block;
+	left: -10000px;
+	top: auto;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0,0,0,0);
+	border: 0;
+}
+
 // This applies from 0px to 600px
 @media (max-width: 600px) {
   .date-label {
