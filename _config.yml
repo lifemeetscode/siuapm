@@ -4,8 +4,8 @@ title: "Should I Use a Password Manager?"
 title2: "" # default: ""
 description: "Helping people understand when to use a password manager."
 keywords: "password, manager, security"
-url: /thinkspace # site url
-baseurl: "" # apply repo name if use it under gh-pages branch
+url: https://lifemeetscode.github.io # site url
+baseurl: "/thinkspace" # apply repo name if use it under gh-pages branch
 # baseurl: null # apply null if repo name is something like username.github.io
 
 google_analytics: UA-XXXXX-XX
